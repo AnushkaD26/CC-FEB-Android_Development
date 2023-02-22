@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="floating_btn">Add</string>
+    <string name="task_title">Task Title</string>
+    <string name="set_remainder">Date and Time</string>
+    <string name="enter_task_title">Enter task title</string>
+    <string name="enter_the_task">Enter the task</string>
+    <string name="what_is_to_be_done">What is to be done?</string>
+    <string name="set_date">Set date</string>
+    <string name="save_task">Save task</string>
+    <string name="set_time">Set time</string>
+    <string name="search">Search</string>
+    <string name="history">History</string>
+</resources>
